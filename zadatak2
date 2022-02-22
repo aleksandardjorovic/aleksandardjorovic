@@ -66,9 +66,9 @@ void sortiranje(int m){
                                  exit(1);
                                  break;
                         default:
-                                  printf("Pogresan izbor, pokusaj ponovo!\n");
-                                  break;
-                   }
-             }
-      }
+                                 printf("Pogresan izbor, pokusaj ponovo!\n");
+                                 break;
+                  }
+          }
+  }
                             
